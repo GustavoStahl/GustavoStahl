@@ -1,4 +1,7 @@
-![gif](docs/loading-adams-creation.gif)
+<div align="center" style="margin:24px 0;">
+  <img src="docs/loading-adams-creation.gif"
+       width="100%"/>
+</div>
 
 <!--
 **GustavoStahl/GustavoStahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
