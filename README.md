@@ -1,4 +1,4 @@
-## Hi there 👋
+![gif](docs/loading-adams-creation.gif)
 
 <!--
 **GustavoStahl/GustavoStahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
